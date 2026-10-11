@@ -1,5 +1,7 @@
 # Selected projects
 
+**English** · [Русский](./projects_guide.ru.md)
+
 ## [Banking data analysis](https://github.com/ashagvaly/data-analysis-test-bank)
 
 An analytical test assignment: SQL reconciliation of loyalty point balances and transactions, customer activation metrics, and synthetic data generators with pytest checks. Python, SQL, DuckDB, pandas.

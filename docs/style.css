@@ -9,3 +9,5 @@ a { color: #0000a8; text-underline-offset: 2px; }
 a:hover { text-decoration-thickness: 2px; }
 a:focus-visible { outline: 2px solid #0000a8; outline-offset: 4px; }
 @media (max-width: 600px) { main { margin-block: 32px; } h1 { font-size: 32px; } body { font-size: 17px; } }
+.language { font-size: 14px; margin-bottom: 22px; }
+.language [aria-current="page"] { font-weight: 700; }

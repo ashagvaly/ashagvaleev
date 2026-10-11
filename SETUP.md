@@ -29,8 +29,12 @@ For the shorter user-site address `https://ashagvaly.github.io/`, use a separate
 
 Reference: [Pages publishing settings](https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site) and [user versus project sites](https://docs.github.com/en/pages/getting-started-with-github-pages/what-is-github-pages).
 
+## Languages
+
+English is the default language. Russian versions are available in `README.ru.md`, `projects_guide.ru.md`, and `docs/ru/`. Each website page links to its equivalent in the other language; switching languages on the project catalogue stays on the catalogue. Both versions are static and work without JavaScript.
+
 ## Content maintenance
 
-Professional background, work technologies, education, and professional contact details are drawn from the user's current resume in Google Drive, updated on 11 October 2026. Project descriptions and additional project tools are based on the linked public repositories' source files, notebooks, and dependencies. The banking project is identified as a test assignment, and public ML research is described as exploratory. Production ML deployment ownership and business impact figures are not claimed.
+Professional background, selected work technologies, education, and professional contact details are drawn from the user's current resume in Google Drive, updated on 11 October 2026. Project descriptions and additional project tools are based on the linked public repositories' source files, notebooks, and dependencies. The banking project is identified as a test assignment, and public ML research is described as exploratory. Production ML deployment ownership and business impact figures are not claimed.
 
-Keep the README and portfolio consistent when updating career details. Add a CV or LinkedIn link once a suitable public URL has been confirmed. LightGBM is omitted because it is not supported by the current resume or inspected project code. The Drive resume's sharing permissions have not been changed, and its URL is not published here.
+The profile is deliberately brief. Keep the README and portfolio consistent when updating career details; maintain the project catalogue in `projects_guide.md` and `docs/projects.html`. Add a CV or LinkedIn link once a suitable public URL has been confirmed. LightGBM is omitted because it is not supported by the current resume or inspected project code. The Drive resume's sharing permissions have not been changed, and its URL is not published here.
